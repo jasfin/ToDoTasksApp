@@ -1,0 +1,77 @@
+body{
+    background-color: darkslategrey;
+    padding: 10px;
+}
+
+#full-container{
+    padding:25px;
+    /* margin: 15px 15px 15px 15px; */
+    background-color: lightgrey;
+}
+
+#heading{
+    text-align: center;
+    font-size: x-large;
+}
+
+#label{
+    font-size: large;
+    font-weight: bold;
+    /* padding-left: 35px; */
+}
+
+.user-box{
+    padding: 10px;
+}
+
+.form-box{
+    /* padding: 5px;
+    text-align: center; */
+    width: 50%;
+    clear: both;
+    margin:auto
+}
+
+.form-box input{
+  width: 100%;
+  /* clear: both; */
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: lightsteelblue;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 2px;
+  }
+
+  .card h3{
+      padding: 1px;
+  }
+
+  .container h4{
+      padding: 1px;
+  }
+
+  .container p{
+    padding: 1px;
+  }
+
+  #category{
+     margin-left: 10px;
+  }
+
+  #submit-button{
+    margin-left:120px;
+    width: 50%;
+    background-color: lightskyblue;
+  }
